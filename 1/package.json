@@ -1,0 +1,11 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lesson.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tankcaster",
+  "license": "ISC"
+}
